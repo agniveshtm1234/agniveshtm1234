@@ -2,7 +2,7 @@
 
 ### A passionate Python developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agniveshtm1234&label=Profile views&color=0e75b6&style=flat" alt="agniveshtm1234" /> </p>
+![](https://komarev.com/ghpvc/?username=agniveshtm1234&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left"> <a href="https://twitter.com/agniveshtm2724" target="blank"><img src="https://img.shields.io/twitter/follow/agniveshtm2724?logo=twitter&style=for-the-badge" alt="agniveshtm2724" /></a> </p>
 
